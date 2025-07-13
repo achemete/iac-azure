@@ -1,2 +1,4 @@
 .terraform/
 prod/
+*tfstate
+*tfstate.backup
